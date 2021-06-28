@@ -53,25 +53,11 @@ nav a {
   padding-right: 10px;
 }
 
-.banner-area {
+.content {
   width: 100%;
   position: relative;
   padding-top: 90px;
   opacity: 90%;
-}
-
-.banner-area h2 {
-  color: #ffffff;
-  font-size: 70px;
-  text-transform: uppercase;
-  padding-top: 10%;
-  text-shadow: 2px 4px black;
-}
-
-.banner-area p {
-  font-size: 20px;
-  color: #fff;
-  text-shadow: 2px 4px black;
 }
 
 .text-dark {
@@ -86,10 +72,6 @@ nav a {
     padding-bottom: 300px; */
   height: 200px;
   position: relative;
-}
-.col img {
-  width: 100px;
-  height: 100px;
 }
 
 .col h4 {
